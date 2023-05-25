@@ -1,7 +1,7 @@
 import subprocess
 import time
 
-#subprocess.getoutput("cd desktop")
+subprocess.getoutput("cd desktop")
 i = 1
 while True:
     i = +1
